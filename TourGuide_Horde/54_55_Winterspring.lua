@@ -31,9 +31,7 @@ R Frostfire Hot Springs |QID|5082| |N|Travel to Frostfire Hot Springs (31.28, 45
 T Trouble in Winterspring! |QID|6603| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring|
 A Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
 T Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980| 
-A Falling to Corruption |QID|5084| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| 
 
-R Winterfall Village |QID|8464| |N|Travel to Winterfall Village (67.13, 35.93)| |Z|Winterspring| 
 C Winterfall Activity |QID|8464| |N|Kill the required Winterfall fulborg in Winterfall Village (67.13, 35.93)| |Z|Winterspring|  
 C Threat of the Winterfall |QID|5082.2| |N|Kill 8 Winterfall Den Watcher in Winterfall Village (66.94, 34.82)| |Z|Winterspring| 
 N Empty Firewater Flask |QID|5083| |N|Collect Empty Firewater Flask from Winterfall fulborgs (67.13, 35.93)| |Z|Winterspring|  |L|12771| 
@@ -54,6 +52,7 @@ A Winterfall Firewater |QID|5083| |N|Use Empty Firewater Flask to accept quest| 
 R Frostfire Hot Springs |QID|5082| |N|Travel to Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |REACH|
 T Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
 T Winterfall Firewater |QID|5083| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| 
+A Falling to Corruption |QID|5084| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| 
 
 K Ragged Owlbeast |QID|4521.2| |N|Kill 15 Ragged Owlbeast in Winterspring follow the waypoint and kill as much as you can for now (38.77, 37.96) (45.77, 37.18) (49.78, 40.11)| |Z|Winterspring| |REACH| 
 
