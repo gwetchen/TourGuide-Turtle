@@ -10,13 +10,12 @@ A Winterfall Activity |QID|8464| |N|Salfa in Frostfire Hot Springs (27.74, 34.53
 R Frostfire Hot Springs |QID|4842| |N|Travel to Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |REACH|
 T The New Springs |QID|980| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |O| 
 A Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980| 
-A Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
 T It's a Secret to Everybody (Part 3) |QID|3908| |N|Donova Snowden in Frostfire Hot Springs -Skip follow up (31.27, 45.17)| |Z|Winterspring| |O| 
 N Moontouched Feather |QID|978| |N|Collect Moontouched Feather from the ground near the quest giver (31.64, 44.83)| |Z|Winterspring|  |O| |OBJ|3651|
 
 R Everlook |QID|3783| |N|Travel to Everlook (61.60, 38.62)| |Z|Winterspring| 
 T Felnok Steelspring |QID|4808| |N|Felnok Steelspring in Everlook (61.60, 38.62)| |Z|Winterspring| |O| 
---A Trouble in Winterspring! |QID|6603| |N|Meggi Peppinrocker in Everlook (61.23, 38.34)| |Z|Winterspring| 
+A Trouble in Winterspring! |QID|6603| |N|Meggi Peppinrocker in Everlook (61.23, 38.34)| |Z|Winterspring| 
 A Are We There, Yeti? |QID|3783| |N|Umi Rumplesnicker in Everlook (60.9, 37.6)| |Z|Winterspring| 
 h Everlook |QID|5245| |N|Speak to Innkeeper Vizzie and set hearth in Everlook (61.36, 38.83)| |Z|Winterspring| 
 f Everlook |QID|3783| |N|Speak to Yugrek grab flight for Everlook (60.47, 36.30)| |Z|Winterspring| 
@@ -27,6 +26,12 @@ N Studies in Spirit Speaking |QID|6030| |N|Store Studies in Spirit Speaking in t
 N Deadwood Ritual Totem |QID|8470| |N|Store Studies in Spirit Speaking in the bank . Tick this step (61.4, 37.0)| |Z|Winterspring| |L|20741| |O| 
 
 C Strange Sources |QID|4842| |N|Go over the bridge and discover Darkwhisper Gorge (62.40, 67.17) (61.82, 70.63) (60.06, 73.49)| |Z|Winterspring| |PRE|980|
+
+R Frostfire Hot Springs |QID|5082| |N|Travel to Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |REACH|
+T Trouble in Winterspring! |QID|6603| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring|
+A Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
+T Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980| 
+A Falling to Corruption |QID|5084| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| 
 
 R Winterfall Village |QID|8464| |N|Travel to Winterfall Village (67.13, 35.93)| |Z|Winterspring| 
 C Winterfall Activity |QID|8464| |N|Kill the required Winterfall fulborg in Winterfall Village (67.13, 35.93)| |Z|Winterspring|  
@@ -47,9 +52,6 @@ N Empty Firewater Flask |QID|5083| |N|Collect Empty Firewater Flask from Winterf
 A Winterfall Firewater |QID|5083| |N|Use Empty Firewater Flask to accept quest| |Z|Winterspring| |U|12771|
 
 R Frostfire Hot Springs |QID|5082| |N|Travel to Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |REACH|
---T Trouble in Winterspring! |QID|6603| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
-T Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980| 
-A Falling to Corruption |QID|5084| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| 
 T Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
 T Winterfall Firewater |QID|5083| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| 
 
